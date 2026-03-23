@@ -1,0 +1,56 @@
+[32m✔[0m [33mConsole Ninja[0m extension is connected to [33mNext.js[0m, see [36mhttps://tinyurl.com/2vt8jxzw[0m
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of c:\Users\Lenovo\package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * c:\Users\Lenovo\Desktop\ecommerce-nestjs-nextjs-prisma\frontend-nestjs-prisma\package-lock.json
+
+   ▲ Next.js 15.5.14
+   - Local:        http://localhost:3000
+   - Network:      http://172.26.224.1:3000
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+ ✓ Starting...
+
+   We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+   The following mandatory changes were made to your tsconfig.json:
+
+   	- jsx was set to preserve (next.js implements its own optimized jsx transform)
+
+ ✓ Ready in 43.7s
+ ○ Compiling /affiliate ...
+ ✓ Compiled /affiliate in 28.1s (1041 modules)
+ ✓ Compiled in 4s (396 modules)
+ GET /affiliate 200 in 32409ms
+ GET /affiliate 200 in 493ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3s (1069 modules)
+ GET / 200 in 3524ms
+ GET / 200 in 189ms
+ GET /affiliate 200 in 755ms
+ ○ Compiling /auth/login ...
+ ✓ Compiled /auth/login in 3.3s (1098 modules)
+ GET /auth/login 200 in 4923ms
+ GET / 200 in 468ms
+ GET /affiliate 200 in 392ms
+ GET / 200 in 860ms
+ ○ Compiling /cart ...
+ ✓ Compiled /cart in 1945ms (1117 modules)
+ GET /cart 200 in 2199ms
+ GET /cart 200 in 116ms
+ GET /affiliate 200 in 468ms
+ GET /auth/login 200 in 272ms
+ GET / 200 in 193ms
+ ○ Compiling /admin/affiliates ...
+ ✓ Compiled /admin/affiliates in 2.2s (1132 modules)
+ GET /admin/affiliates 200 in 2881ms
+ ✓ Compiled in 3.3s (1132 modules)
+ GET /admin/affiliates 200 in 524ms
+ ✓ Compiled in 2.2s (1132 modules)
+ GET /admin/affiliates 200 in 247ms
+ GET /auth/login 200 in 316ms
+
+c:\Users\Lenovo\Desktop\ecommerce-nestjs-nextjs-prisma\frontend-nestjs-prisma>More? More? More? More? More? More? 
